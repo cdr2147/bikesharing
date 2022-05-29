@@ -43,7 +43,7 @@ By graphing the overall peak hours of bike usage in August, regardless of the da
 
 #### Top Starting Locations
 ![top starting locations](https://user-images.githubusercontent.com/99205688/170887000-22f207ed-6830-44a5-b58a-4fadefd212f1.PNG)
-By plotting the most popular starting locations on the map, we can see that most popular starting locations are in lower Manhattan. This may due to commuters who live and work in Manhattan and only travel a short distance to the office. t may also be that tourists or other New Yorkers start at a convenient location in Manhattan to see the sites.
+By plotting the most popular starting locations on the map, we can see that most popular starting locations are in lower Manhattan. This may due to commuters who live and work in Manhattan and only travel a short distance to the office. It may also be that tourists or other New Yorkers start at a convenient location in Manhattan to see the sites.
 
 ## Summary
 Overall, it can be seen that the bike share program in NYC has the greatest usage during commuting hours on weekdays, and during the daytime on weekends, with Saturday being more popular than Sunday. Trip duration peaked at 5 minutes and most riders do not ride for more than 22 minutes. Male riders greatly outnumber female riders, are more likely to be subscribers than female riders, and most often use the service to commute during weekdays. 
